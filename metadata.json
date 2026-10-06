@@ -1,0 +1,8 @@
+{
+  "name": "UDAAN — AI Sports Talent Assessment Platform",
+  "description": "Discover Talent. Measure Potential. Represent India. AI-powered grassroots sports talent assessment, computer vision biomechanics analysis, and scouting platform inspired by SIH25073.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
